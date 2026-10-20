@@ -1,7 +1,7 @@
 
 # Hi, I'm Laise Eduardo 👋
 
-### Principal Quality Engineer | SDET Architect | Software Architect | AI Enthusiast
+### Principal Quality Engineer | SDET Architect | Software Architect | AI-Assisted Engineering
 
 I’m a software engineer with 14 years of experience in Quality Engineering, test automation, technical strategy, and software architecture.
 
@@ -49,7 +49,5 @@ Effective quality engineering combines thoughtful design, risk-based decisions, 
 ## Connect
 
 🌐 [Portfolio](https://laise-eduardo.com)
-
-💻 [GitHub](https://github.com/LaiseEduardo)
 
 📧 [Email](mailto:laise.aeduardo@gmail.com)
